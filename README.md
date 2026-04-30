@@ -342,5 +342,4 @@ The model was tested against common evasion techniques:
 ---
 
 ## Author
-Spoorthy Madduri
-Built as a portfolio project demonstrating end-to-end ML system design, from raw feature engineering to deployed REST API.
+Spoorthy Madduri | An end-to-end phishing detection system built to demonstrate ML engineering, deep learning, explainable AI, and REST API deployment.
