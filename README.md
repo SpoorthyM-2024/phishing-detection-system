@@ -21,13 +21,11 @@ A machine learning system that detects phishing URLs using an ensemble of Gradie
 ---
 ## Note 
 
-Dataset files are not included in this repository due to size 
-and content restrictions. 
-Download links: 
-Kaggle dataset -  https://www.kaggle.com/eswarchandt/phishing-website-detector
-Kaggle URL dataset - https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset/data
-Phish tank dataset - https://www.phishtank.net/developer_info.php
-
+> **Note:** Dataset files are not included in this repository due to size and content restrictions.
+> Download the datasets from the links below and place them in the `/data` folder:
+> - [Kaggle Phishing Dataset](https://www.kaggle.com/eswarchandt/phishing-website-detector)
+> - [Web Page Phishing Detection Dataset](https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset/data)
+> - [PhishTank Dataset](https://www.phishtank.net/developer_info.php)
 
 ## Overview
 
